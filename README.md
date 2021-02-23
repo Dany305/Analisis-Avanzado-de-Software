@@ -1,6 +1,6 @@
 # :computer: Analisis Avanzado de Software #
 
-![Logo](img/logoTEC.png)
+![Logo](img/LogoTec.png)
 ![LogoS](img/LogoSistemas.png)
 
 # :man: Información #
