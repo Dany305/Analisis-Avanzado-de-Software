@@ -29,6 +29,7 @@ Software
 **Carpeta Blog**
 
   :round_pushpin: [C0.1 Integrar equipos](blog/C0.1_IntegrarEquipo_DanielAlajandroVillaneuvaMercado.md)
+  :round_pushpin: [C0.2 Tipo de sistema de información](blog/C0.2_TiposDeSitemaDeInfromacion_DaielAlejandroVillanuevaMercado.md)
 
 # :notebook: Unidad 2
 
