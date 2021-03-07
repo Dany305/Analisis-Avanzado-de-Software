@@ -32,6 +32,8 @@ Software
   
   :round_pushpin: [C0.2 Tipo de sistema de información](blog/C0.2_TiposDeSitemaDeInfromacion_DaielAlejandroVillanuevaMercado.md)
 
+  :round_pushpin: [C0.3 Diagrama de flujo del procesp](blog/C0.3_Diagramadeflujodelproceso_DanielAlejandroVillanuevaMercado.md)
+
 # :notebook: Unidad 2
 
 **Carpeta Docs**
