@@ -34,7 +34,7 @@ Software
 
   :round_pushpin: [C0.3 Diagrama de flujo del procesp](blog/C0.3_Diagramadeflujodelproceso_DanielAlejandroVillanuevaMercado.md)
 
-  :round_pushpin: [A0.1 Recopilación de datos por medio de la entrevista](blog/A0.1-RecopilacionEntrevista_VillanuevaMercadoDaniel%20Alejandro.md)
+  :round_pushpin: [A0.1 Recopilación de datos por medio de la entrevista](blog/A0.1-InterviewCompilation_DanielAlejandroVillanuevaMercado.md)
 
 # :notebook: Unidad 2
 
