@@ -41,6 +41,7 @@ Software
 **Carpeta Docs**
 
 **Carpeta Blog**
+
 :round_pushpin: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](blog/C1.1-DefinicióndeObjetivogeneralylosespecificos,asicomoelmodeladodelnegocio-VillanuevaMercadoDanielAljenadro.md)
 
 :round_pushpin: [C1.2 Elaboracion del acta constitutiva del proyecto](blog/C1.2_Elaboraciondelactaconstitutivadelproyecto-DanielVillanuevaMercado.md)
