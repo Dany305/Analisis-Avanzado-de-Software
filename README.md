@@ -45,6 +45,9 @@ Software
 :round_pushpin: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](blog/C1.1-DefinicióndeObjetivogeneralylosespecificos,asicomoelmodeladodelnegocio-VillanuevaMercadoDanielAljenadro.md)
 
 :round_pushpin: [C1.2 Elaboracion del acta constitutiva del proyecto](blog/C1.2_Elaboraciondelactaconstitutivadelproyecto-DanielVillanuevaMercado.md)
+
+:round_pushpin: [C1.3 Requisitos dele sistema para el caso de estudio](blog/C1.3_Requisitosdelsistemaparaecasodestudio-VillanuevaMercadoDaniel.md)
+
 # :pencil2: Unidad 3
 
 **Carpeta Docs**
