@@ -48,6 +48,8 @@ Software
 
 :round_pushpin: [C1.3 Requisitos dele sistema para el caso de estudio](blog/C1.3_Requisitosdelsistemaparaecasodestudio-VillanuevaMercadoDaniel.md)
 
+:round_pushpin: [A1.0 Consolidación del acta constitutiva](blog/A1.0Consolidation-of-the-articles-of-incorporation_DanielVillanuevaMercado.md)
+
 # :pencil2: Unidad 3
 
 **Carpeta Docs**
