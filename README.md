@@ -48,6 +48,8 @@ Software
 
 :round_pushpin: [C1.3 Requisitos dele sistema para el caso de estudio](blog/C1.3_Requisitosdelsistemaparaecasodestudio-VillanuevaMercadoDaniel.md)
 
+:round_pushpin: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](blog/C1.4_Modeladoderequisitosatravésdediagramasdecomportamiento_DanielVillanuevaMercado.md)
+
 :round_pushpin: [A1.0 Consolidación del acta constitutiva](blog/A1.0Consolidation-of-the-articles-of-incorporation_DanielVillanuevaMercado.md)
 
 # :pencil2: Unidad 3
