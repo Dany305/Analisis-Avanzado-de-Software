@@ -54,6 +54,8 @@ Software
 
 :round_pushpin: [A1.0 Consolidación del acta constitutiva](blog/A1.0Consolidation-of-the-articles-of-incorporation_DanielVillanuevaMercado.md)
 
+:round_pushpin: [A1.1 Modelado de requisitos a través de diagramas UML](blog/A1.1Requirements-modeling-through-UML-diagrams_VillanuevaMercadoDaniel.md)
+
 # :pencil2: Unidad 3
 
 **Carpeta Docs**
