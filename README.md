@@ -62,6 +62,8 @@ Software
 
 **Carpeta Blog**
 
+:round_pushpin: [C2.1 Especificación de Requerimientos Funcionales](blog/C2.1_EspecificacióndeRequerimientosFuncionales_VillanuevaMercadoDaniel.md)
+
 # :notebook_with_decorative_cover: Unidad 4
 
 **Carpeta Docs**
