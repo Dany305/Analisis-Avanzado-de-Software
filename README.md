@@ -66,6 +66,8 @@ Software
 
 :round_pushpin: [A2.1 Especificación de requisitos y documentación](blog/A2.1-Specification-of-requirements-and-documentation_VillanuevaMercadoDaniel.md)
 
+:round_pushpin: [A2.2 Diseño de la arquitectura 4+1](blog/A2.2-Design-of-the-41-architecture_VillanuevaMercadoDaniel.md)
+
 # :notebook_with_decorative_cover: Unidad 4
 
 **Carpeta Docs**
