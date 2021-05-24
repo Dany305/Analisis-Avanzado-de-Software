@@ -68,6 +68,8 @@ Software
 
 :round_pushpin: [A2.2 Diseño de la arquitectura 4+1](blog/A2.2-Design-of-the-41-architecture_VillanuevaMercadoDaniel.md)
 
+:round_pushpin: [ A2.3 Patrones de arquitectura de software](blog/A2.3_Software_Architecture_Patterns_VillanuevaMercadoDananielAlejandro.md)
+
 # :notebook_with_decorative_cover: Unidad 4
 
 **Carpeta Docs**
