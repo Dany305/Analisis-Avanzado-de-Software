@@ -79,3 +79,5 @@ Software
 :round_pushpin: [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](blog/A3.1_FaseInicioScrum_DeclaraciondeVisionDelProyecto-VillanuevaMercadoDaniel.md)
 
 :round_pushpin: [A3.2 Fase inicio: Artefactos](blog/A3.2_Initiation_Phase_Artifacts_VillanuevaMercadoDaniel.md)
+
+:round_pushpin: [A3.3 Arquitectura de software a traves del Modelo C4](blog/A3.3-Software-Architecture-through-the-C4-Model_VillanuevaMercadoDaniel.md)
